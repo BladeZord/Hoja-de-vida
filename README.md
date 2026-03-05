@@ -2,7 +2,7 @@
 
 **Desarrollador de Software Full Stack**  
 📍 Guayaquil, Ecuador  
-📞 0993037950  
+📞 0962749074  
 📧 kevinquito1001@gmail.com  
 
 ---
