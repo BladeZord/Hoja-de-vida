@@ -140,7 +140,8 @@ Mi enfoque principal es el desarrollo, complementado con la capacidad de **despl
 
 - Angular y Spring Boot – Global Mentoring  
 - React y Spring Boot – Global Mentoring  
-- Programación en **Java, Python y C#** – Global Mentoring  
+- Programación en **Java, Python y C#** – Global Mentoring
+- Laravel y PHP
 - Desarrollo Web Frontend (HTML, CSS, JavaScript)  
 - TypeScript para aplicaciones web  
 - Introducción y Buenas Prácticas de Ciberseguridad  
