@@ -15,75 +15,79 @@ Mi enfoque principal es el desarrollo, complementado con la capacidad de **despl
 ---
 
 ## 💼 Experiencia Profesional
+
 ### **Ambiensa** – Guayaquil, Ecuador  
 **Desarrollador Full Stack**  
-📅 *21 de enero – Actualidad*
+📅 *Enero 2026 – Actualidad*
+
+Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React JS + PostgreSQL + MongoDB**, con integraciones a sistemas externos.
+- Desarrollo backend en **Laravel** y frontend en **React JS**
+- Migraciones, reportes, jobs programados y servicios internos
+- Gestión de bases de datos **PostgreSQL** y **MySQL**
+- Preparación de despliegues gestionados por QA (**Docker**, **Git**, **Linux**)
+
+---
 
 ### **Iguana Digital S.A.** – Guayaquil, Ecuador  
-**Desarrollador Full Stack**  
 📅 *Septiembre 2023 – Enero 2026*
 
-**Proyectos destacados:**
+#### Desarrollador Full Stack — Jornada completa  
+📅 *Octubre 2024 – Enero 2026* · *Contratado a través de Evatrust (outsourcing)*
 
-- **Gestor de Requerimientos MT**  
-  Aplicación web monolítica en **.NET**.  
+- **Plataforma de protección de datos personales (LOPDP)**  
+  - Desarrollo frontend (**Angular 14**) y backend (**microservicios .NET**)  
+  - App móvil con modo online/offline (**Flutter**)
+
+- **IOS – Iguana Operation Suite**  
+  - Desarrollo de módulos, incluido el de notificaciones por correo  
+  - **Angular 16 + .NET 6/8**, **PostgreSQL**, **Docker**, **GitLab CI/CD**
+
+- **ISS – Iguana Security Services**  
+  - Desarrollo de un módulo en **.NET 8** con **Docker** y **PostgreSQL**
+
+- **Sistema para empresa agroexportadora**  
+  - Módulo de reportes con **DevExpress Reports**
+
+- **Facturación Electrónica**  
+  - Módulo de reportes con **Angular 20**, **Quarkus (Java 21)** y **PostgreSQL**
+
+- **Plataforma de Workflow**  
+  - Creación e integración de validaciones y parámetros en flujos **BPMN (Camunda)**  
+  - Desarrollo del módulo de mantenimientos (**Angular 20 + Quarkus**)  
+  - Migración del módulo de notificaciones por correo
+
+- **Plataforma de Workflow para cliente agroexportador**  
+  - Mantenimiento backend
+
+- **Sistema de Gestión de RRHH**  
+  - Correcciones en el módulo de vacaciones (**.NET 4.8 / Spring Boot**)
+
+#### Desarrollador Web — Jornada parcial  
+📅 *Noviembre 2023 – Septiembre 2024*
+
+- **Pase de Versión**  
+  - Desarrollo frontend en **Angular 14** para la migración de un sistema en **Visual FoxPro** a microservicios **.NET 6** (IIS, SQL Server)
+
+- **Sistema para empresa agroexportadora**  
+  - Documentación de procesos **AS-IS / TO-BE**
+
+- **Plataforma de protección de datos personales (LOPDP)**  
+  - Levantamiento de requerimientos
+
+#### Desarrollador .NET — Prácticas  
+📅 *Septiembre – Octubre 2023*
+
+- **Gestor de Requerimientos**  
+  Aplicación web monolítica en **.NET**  
   - Desarrollo de vistas ASPX con **DevExpress**  
   - Pruebas funcionales  
   - Integración con **Oracle**
-
-- **Pase de Versión**  
-  Migración desde sistema legado **Visual FoxPro** a **Angular 14 + microservicios .NET 6**  
-  - Desarrollo frontend y backend  
-  - Gestión del ciclo de vida de pases a producción  
-  - Despliegue en **IIS**  
-  - Base de datos **SQL Server**
-
-- **SAFF – Favorita Fruit**  
-  Proyecto de modernización con integraciones empresariales (**JD Edwards, Spyral**)  
-  - Documentación **AS-IS / TO-BE**  
-  - Desarrollo frontend  
-  - Reportes con **DevExpress Reports (.NET)**
-
-- **Consentimiento (LOPDP)**  
-  Plataforma de cumplimiento de la Ley Orgánica de Protección de Datos Personales  
-  - Frontend **Angular 14**  
-  - Backend de microservicios **.NET**  
-  - Integración con sistemas de seguridad  
-  - Participación en app móvil (modo online/offline)  
-  - Despliegue en **IIS**
-
-- **IOS – Iguana Operation Suite**  
-  Sistema de gestión operativa  
-  - **Angular 16 + microservicios .NET 6/8**  
-  - **PostgreSQL**, **Docker**, **GitLab CI/CD**  
-  - Reportes con **DevExpress Reports (.NET 8)**
-
-- **ISS – Iguana Security Services**  
-  - Backend de servicios de seguridad  
-  - **.NET 8**, **Docker**, **PostgreSQL**
-
-- **Facturación Electrónica**  
-  - Frontend **Angular 20**  
-  - Backend **Quarkus (Java 21)**  
-  - **PostgreSQL**, **Docker**, **GitLab CI/CD**, **Kubernetes**
-
-- **Workflow FTTG**  
-  Plataforma BPMN  
-  - **Angular 20**, **Quarkus (Java 21)**  
-  - Servicios complementarios en **Flask (Python)**  
-  - **PostgreSQL**, **Docker**, **Kubernetes**  
-  - Implementación de flujos **BPMN con Camunda**
-
-- **Human Centric**  
-  Plataforma de gestión de recursos humanos  
-  - Frontend **.NET 4.8**  
-  - Backend **Spring Boot (Java 16)**
 
 ---
 
 ### **Servicio Autónomo** – Guayaquil, Ecuador  
 **Técnico de Soporte de TI y Mantenimiento**  
-📅 *2022 – 2023*
+📅 *2020 – 2023*
 
 ---
 
@@ -155,6 +159,7 @@ Mi enfoque principal es el desarrollo, complementado con la capacidad de **despl
 - Java (Quarkus, Java 11 / 16 / 21)
 - Flask (Python)
 - Laravel (PHP)
+- BPMN con Camunda
 
 **Frontend**
 - Angular (14 – 20)
@@ -166,6 +171,10 @@ Mi enfoque principal es el desarrollo, complementado con la capacidad de **despl
 - PostgreSQL
 - SQL Server
 - Oracle
+- MongoDB
+
+**Móvil**
+- Flutter
 
 **Arquitectura**
 - N-Capas
