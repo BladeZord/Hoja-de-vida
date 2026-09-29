@@ -149,6 +149,8 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 - Desarrollo Web Frontend (HTML, CSS, JavaScript)  
 - TypeScript para aplicaciones web  
 - Introducción y Buenas Prácticas de Ciberseguridad  
+- Auxiliar Técnico Help Desk (170 h) – Ecugenius S.A. con aval académico de la PUCE Sede Manabí, 2022
+- Desarrollo de Habilidades y Técnicas Help Desk Nivel 1 (48 h) – Ministerio del Trabajo, 2022
 
 ---
 
