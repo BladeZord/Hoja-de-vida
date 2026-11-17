@@ -57,7 +57,8 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
   - Migración del módulo de notificaciones por correo
 
 - **Plataforma de Workflow para cliente agroexportador**  
-  - Mantenimiento backend
+  - Mantenimiento backend  
+  - Migración de **23 de 24 microservicios** de **.NET 6 a .NET 8** para resolver vulnerabilidades señaladas por el cliente, con reconstrucción de las imágenes **Docker**; la entrega fue aceptada
 
 - **Sistema de Gestión de RRHH**  
   - Correcciones en el módulo de vacaciones (**.NET 4.8 / Spring Boot**)
@@ -160,16 +161,19 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 ## 🛠️ Habilidades Técnicas
 
 **Backend**
-- .NET (4.8 / 5 / 6 / 8)
-- Java (Quarkus, Java 11 / 16 / 21)
-- Flask (Python)
+- C# / .NET (4.8 / 5 / 6 / 8)
+- Java (Quarkus, Spring Boot; Java 11 / 16 / 21)
 - Laravel (PHP)
+- Flask y Django (Python)
+- Node.js
+- APIs REST (Entity Framework, Dapper)
 - BPMN con Camunda
 
 **Frontend**
 - Angular (14 – 20)
 - React
 - HTML, CSS, TypeScript
+- Bootstrap / NgBootstrap
 
 **Bases de Datos**
 - MySQL
@@ -182,6 +186,8 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 - Flutter
 
 **Arquitectura**
+- Microservicios
+- Arquitectura hexagonal y DDD
 - N-Capas
 - MVC, MVT, MVVC
 - WPF
@@ -200,6 +206,15 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 - Git
 - GitHub
 - GitLab
+
+**Metodologías**
+- Agile (sprint reviews y demos)
+- Jira
+
+**Herramientas**
+- Postman
+- Adminer
+- Linux
 
 ---
 
