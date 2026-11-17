@@ -4,13 +4,15 @@
 📍 Guayaquil, Ecuador  
 📞 0962749074  
 📧 kevinquito1001@gmail.com  
+💻 [github.com/BladeZord](https://github.com/BladeZord) · 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-quito-23881824b)  
+🌎 Disponible para trabajo remoto, híbrido o presencial · Dispuesto a viajar y a reubicarse  
 
 ---
 
 ## 🧠 Perfil Profesional
 
 Desarrollador de software Full Stack con experiencia en proyectos empresariales e institucionales. Especializado en desarrollo de aplicaciones web backend y frontend, con participación activa en arquitecturas modernas basadas en microservicios.  
-Mi enfoque principal es el desarrollo, complementado con la capacidad de **desplegar, contenerizar y operar** las aplicaciones que construyo en entornos controlados (Docker, CI/CD, Kubernetes).
+Mi enfoque principal es el desarrollo, complementado con la capacidad de **desplegar, contenerizar y operar** las aplicaciones que construyo en entornos controlados (Docker, CI/CD, Kubernetes), y con experiencia en desarrollo móvil con **Flutter**. Me interesa seguir creciendo en **arquitectura de software y DevOps**.
 
 ---
 
@@ -34,6 +36,8 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 #### Desarrollador Full Stack — Jornada completa  
 📅 *Octubre 2024 – Enero 2026* · *Contratado a través de Evatrust (outsourcing)*
 
+- Servicios REST con SQL optimizado, documentación técnica y manuales, implementación por fases, soporte y cierre técnico de proyectos.
+
 - **Plataforma de protección de datos personales (LOPDP)**  
   - Desarrollo frontend (**Angular 14**) y backend (**microservicios .NET**)  
   - App móvil con modo online/offline (**Flutter**)
@@ -49,12 +53,14 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
   - Módulo de reportes con **DevExpress Reports**
 
 - **Facturación Electrónica**  
-  - Módulo de reportes con **Angular 20**, **Quarkus (Java 21)** y **PostgreSQL**
+  - Módulo de reportes con **Angular 20**, **Quarkus (Java 21)** y **PostgreSQL**  
+  - Despliegue en **Kubernetes**: actualización de manifiestos y pods con **GitLab CI/CD**
 
 - **Plataforma de Workflow**  
   - Creación e integración de validaciones y parámetros en flujos **BPMN (Camunda)**  
   - Desarrollo del módulo de mantenimientos (**Angular 20 + Quarkus**)  
-  - Migración del módulo de notificaciones por correo
+  - Migración del módulo de notificaciones por correo  
+  - Servicios en **Flask**; despliegue en **Kubernetes** (actualización de manifiestos y pods con **GitLab CI/CD**)
 
 - **Plataforma de Workflow para cliente agroexportador**  
   - Mantenimiento backend  
@@ -145,14 +151,16 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 
 - **Docker y Kubernetes para .NET:** Contenerización Paso a Paso – Udemy, 2026
 - **Introducción a arquitectura hexagonal y DDD** básico en Laravel – Udemy, 2026
-- Angular y Spring Boot – Global Mentoring  
-- React y Spring Boot – Global Mentoring  
-- Programación en **Java, Python y C#** – Global Mentoring
 - Creación de API REST con Laravel y MySQL – Udemy, 2026
 - Laravel: CRUD y despliegue de aplicaciones web – Udemy, 2026
-- Desarrollo Web Frontend (HTML, CSS, JavaScript)  
-- TypeScript para aplicaciones web  
-- Introducción y Buenas Prácticas de Ciberseguridad  
+- Angular y Spring Boot: App Full Stack – Global Mentoring, 2024
+- React y Spring Boot: App Full Stack – Global Mentoring, 2024
+- Angular: Consultas a API REST – Udemy, 2024
+- Universidad Desarrollo Web: FrontEnd Web Developer (HTML, CSS, JavaScript) – Global Mentoring, 2024
+- Programación en **Java, Python y C#** (40,5 h) – Global Mentoring, 2023
+- TypeScript: desde las bases a la práctica – Udemy, 2023
+- Gestión de las buenas prácticas en seguridad informática (240 h) – Instituto Superior Tecnológico Argos, 2023
+- Introduction to Cybersecurity – Cisco Networking Academy, 2023
 - Auxiliar Técnico Help Desk (170 h) – Ecugenius S.A. con aval académico de la PUCE Sede Manabí, 2022
 - Desarrollo de Habilidades y Técnicas Help Desk Nivel 1 (48 h) – Ministerio del Trabajo, 2022
 
@@ -164,7 +172,8 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 - C# / .NET (4.8 / 5 / 6 / 8)
 - Java (Quarkus, Spring Boot; Java 11 / 16 / 21)
 - Laravel (PHP)
-- Flask y Django (Python)
+- Flask (Python)
+- Django (académico)
 - Node.js
 - APIs REST (Entity Framework, Dapper)
 - BPMN con Camunda
@@ -215,6 +224,13 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 - Postman
 - Adminer
 - Linux
+
+---
+
+## 🌐 Idiomas
+
+- **Español:** nativo
+- **Inglés:** A2 (certificado)
 
 ---
 
