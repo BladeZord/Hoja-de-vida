@@ -142,10 +142,13 @@ Migración de un sistema legado en **PHP 5 + MySQL 5** hacia **Laravel + React J
 
 ## 📜 Certificaciones y Formación Complementaria
 
+- **Docker y Kubernetes para .NET:** Contenerización Paso a Paso – Udemy, 2026
+- **Introducción a arquitectura hexagonal y DDD** básico en Laravel – Udemy, 2026
 - Angular y Spring Boot – Global Mentoring  
 - React y Spring Boot – Global Mentoring  
 - Programación en **Java, Python y C#** – Global Mentoring
-- Laravel y PHP
+- Creación de API REST con Laravel y MySQL – Udemy, 2026
+- Laravel: CRUD y despliegue de aplicaciones web – Udemy, 2026
 - Desarrollo Web Frontend (HTML, CSS, JavaScript)  
 - TypeScript para aplicaciones web  
 - Introducción y Buenas Prácticas de Ciberseguridad  
